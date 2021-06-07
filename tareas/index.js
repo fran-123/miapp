@@ -9,5 +9,6 @@ module.exports = {
             estado
         }
         tareas.push(tarea)
-    }
+    },
+    mostrarMensaje : mensaje => console.log(mnesaje)
 }
